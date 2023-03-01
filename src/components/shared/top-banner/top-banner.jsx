@@ -38,7 +38,7 @@ const TopBanner = () => (
       <span className="font-sans text-3xl font-bold leading-none md:text-xl">
         eBPF summit 2022&nbsp;
       </span>
-      <a className="h-9 px-4 pb-1 md:text-sm" theme="black-filled" to="/summit-2022">
+      <a className="h-9 px-4 pb-1 md:text-sm" theme="black-filled" href="/summit-2022">
         Watch Recordings
       </a>
     </div>
